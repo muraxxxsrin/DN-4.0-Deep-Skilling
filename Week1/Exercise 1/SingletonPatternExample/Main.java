@@ -7,7 +7,7 @@ public class Main{
         log1.logs("Initial test");
         log2.logs("Secondary test");
         log2.logs("Final test");
-
+ 
         
     }
 }
