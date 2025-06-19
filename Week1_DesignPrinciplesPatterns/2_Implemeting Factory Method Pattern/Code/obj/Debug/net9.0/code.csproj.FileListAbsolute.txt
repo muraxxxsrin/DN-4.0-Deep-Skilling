@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\DN 4.0 Deep Skilling\Week1_DesignPrinciplesPatterns\2_Implemeting Factory Method Pattern\code\obj\Debug\net9.0\code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\DN 4.0 Deep Skilling\Week1_DesignPrinciplesPatterns\2_Implemeting Factory Method Pattern\code\obj\Debug\net9.0\code.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\DN 4.0 Deep Skilling\Week1_DesignPrinciplesPatterns\2_Implemeting Factory Method Pattern\code\obj\Debug\net9.0\code.AssemblyInfo.cs
+C:\Users\HP\Desktop\DN 4.0 Deep Skilling\Week1_DesignPrinciplesPatterns\2_Implemeting Factory Method Pattern\code\obj\Debug\net9.0\code.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\DN 4.0 Deep Skilling\Week1_DesignPrinciplesPatterns\2_Implemeting Factory Method Pattern\code\obj\Debug\net9.0\code.sourcelink.json
+C:\Users\HP\Desktop\DN 4.0 Deep Skilling\Week1_DesignPrinciplesPatterns\2_Implemeting Factory Method Pattern\code\bin\Debug\net9.0\code.exe
+C:\Users\HP\Desktop\DN 4.0 Deep Skilling\Week1_DesignPrinciplesPatterns\2_Implemeting Factory Method Pattern\code\bin\Debug\net9.0\code.deps.json
+C:\Users\HP\Desktop\DN 4.0 Deep Skilling\Week1_DesignPrinciplesPatterns\2_Implemeting Factory Method Pattern\code\bin\Debug\net9.0\code.runtimeconfig.json
+C:\Users\HP\Desktop\DN 4.0 Deep Skilling\Week1_DesignPrinciplesPatterns\2_Implemeting Factory Method Pattern\code\bin\Debug\net9.0\code.dll
+C:\Users\HP\Desktop\DN 4.0 Deep Skilling\Week1_DesignPrinciplesPatterns\2_Implemeting Factory Method Pattern\code\bin\Debug\net9.0\code.pdb
+C:\Users\HP\Desktop\DN 4.0 Deep Skilling\Week1_DesignPrinciplesPatterns\2_Implemeting Factory Method Pattern\code\obj\Debug\net9.0\code.dll
+C:\Users\HP\Desktop\DN 4.0 Deep Skilling\Week1_DesignPrinciplesPatterns\2_Implemeting Factory Method Pattern\code\obj\Debug\net9.0\refint\code.dll
+C:\Users\HP\Desktop\DN 4.0 Deep Skilling\Week1_DesignPrinciplesPatterns\2_Implemeting Factory Method Pattern\code\obj\Debug\net9.0\code.pdb
+C:\Users\HP\Desktop\DN 4.0 Deep Skilling\Week1_DesignPrinciplesPatterns\2_Implemeting Factory Method Pattern\code\obj\Debug\net9.0\code.genruntimeconfig.cache
+C:\Users\HP\Desktop\DN 4.0 Deep Skilling\Week1_DesignPrinciplesPatterns\2_Implemeting Factory Method Pattern\code\obj\Debug\net9.0\ref\code.dll
