@@ -15,7 +15,7 @@ class Program
         Console.Write("Enter principal amount: ");
         double principal = Convert.ToDouble(Console.ReadLine());
 
-        Console.Write("Enter annual growth rate (in decimal, e.g., 0.08 for 8%): ");
+        Console.Write("Enter annual rate in decimal 0.1 for 10%: ");
         double rate = Convert.ToDouble(Console.ReadLine());
 
         Console.Write("Enter number of years: ");

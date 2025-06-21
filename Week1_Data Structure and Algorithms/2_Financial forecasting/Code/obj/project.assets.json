@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Desktop\\DN 4.0 Deep Skilling\\Week1_Data Structure and Algorithms\\2_Financial forecasting\\2_Financial forecasting.csproj",
-      "projectName": "2_Financial forecasting",
-      "projectPath": "C:\\Users\\HP\\Desktop\\DN 4.0 Deep Skilling\\Week1_Data Structure and Algorithms\\2_Financial forecasting\\2_Financial forecasting.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Desktop\\DN 4.0 Deep Skilling\\Week1_Data Structure and Algorithms\\2_Financial forecasting\\Code\\Code.csproj",
+      "projectName": "Code",
+      "projectPath": "C:\\Users\\HP\\Desktop\\DN 4.0 Deep Skilling\\Week1_Data Structure and Algorithms\\2_Financial forecasting\\Code\\Code.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Desktop\\DN 4.0 Deep Skilling\\Week1_Data Structure and Algorithms\\2_Financial forecasting\\obj\\",
+      "outputPath": "C:\\Users\\HP\\Desktop\\DN 4.0 Deep Skilling\\Week1_Data Structure and Algorithms\\2_Financial forecasting\\Code\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"
