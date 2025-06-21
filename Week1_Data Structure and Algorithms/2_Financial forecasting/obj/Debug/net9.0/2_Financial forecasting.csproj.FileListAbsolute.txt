@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\DN 4.0 Deep Skilling\Week1_Data Structure and Algorithms\2_Financial forecasting\obj\Debug\net9.0\2_Financial forecasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\DN 4.0 Deep Skilling\Week1_Data Structure and Algorithms\2_Financial forecasting\obj\Debug\net9.0\2_Financial forecasting.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\DN 4.0 Deep Skilling\Week1_Data Structure and Algorithms\2_Financial forecasting\obj\Debug\net9.0\2_Financial forecasting.AssemblyInfo.cs
+C:\Users\HP\Desktop\DN 4.0 Deep Skilling\Week1_Data Structure and Algorithms\2_Financial forecasting\obj\Debug\net9.0\2_Financial forecasting.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\DN 4.0 Deep Skilling\Week1_Data Structure and Algorithms\2_Financial forecasting\obj\Debug\net9.0\2_Financial forecasting.sourcelink.json
+C:\Users\HP\Desktop\DN 4.0 Deep Skilling\Week1_Data Structure and Algorithms\2_Financial forecasting\bin\Debug\net9.0\2_Financial forecasting.exe
+C:\Users\HP\Desktop\DN 4.0 Deep Skilling\Week1_Data Structure and Algorithms\2_Financial forecasting\bin\Debug\net9.0\2_Financial forecasting.deps.json
+C:\Users\HP\Desktop\DN 4.0 Deep Skilling\Week1_Data Structure and Algorithms\2_Financial forecasting\bin\Debug\net9.0\2_Financial forecasting.runtimeconfig.json
+C:\Users\HP\Desktop\DN 4.0 Deep Skilling\Week1_Data Structure and Algorithms\2_Financial forecasting\bin\Debug\net9.0\2_Financial forecasting.dll
+C:\Users\HP\Desktop\DN 4.0 Deep Skilling\Week1_Data Structure and Algorithms\2_Financial forecasting\bin\Debug\net9.0\2_Financial forecasting.pdb
+C:\Users\HP\Desktop\DN 4.0 Deep Skilling\Week1_Data Structure and Algorithms\2_Financial forecasting\obj\Debug\net9.0\2_Financial forecasting.dll
+C:\Users\HP\Desktop\DN 4.0 Deep Skilling\Week1_Data Structure and Algorithms\2_Financial forecasting\obj\Debug\net9.0\refint\2_Financial forecasting.dll
+C:\Users\HP\Desktop\DN 4.0 Deep Skilling\Week1_Data Structure and Algorithms\2_Financial forecasting\obj\Debug\net9.0\2_Financial forecasting.pdb
+C:\Users\HP\Desktop\DN 4.0 Deep Skilling\Week1_Data Structure and Algorithms\2_Financial forecasting\obj\Debug\net9.0\2_Financial forecasting.genruntimeconfig.cache
+C:\Users\HP\Desktop\DN 4.0 Deep Skilling\Week1_Data Structure and Algorithms\2_Financial forecasting\obj\Debug\net9.0\ref\2_Financial forecasting.dll
