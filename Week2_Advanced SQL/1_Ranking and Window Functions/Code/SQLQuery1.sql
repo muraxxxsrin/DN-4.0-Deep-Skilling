@@ -1,9 +1,11 @@
 SELECT *
 FROM (
     SELECT 
-        ROW_NUMBER() OVER (PARTITION BY Category ORDER BY Price DESC) AS RowNum,
+        row_number() OVER (PARTITION BY Category ORDER BY Price DESC) AS RowNum,
         *
     FROM Products
-) AS RankedProducts
+) AS RankedProducts1
 WHERE RowNum <= 3
 ORDER BY Price DESC;
+
+
