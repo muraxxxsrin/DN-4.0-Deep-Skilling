@@ -9,7 +9,7 @@ END;
 Go
 
 ---step2---
-Select * from Employees where DepartmentID=1;
+exec GetEmployeeDetails @DepartmentID=1;
 
 ---step 3---
 Go
