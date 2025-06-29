@@ -6,11 +6,11 @@
       "AbsoluteMoniker": "D:0:0:{36CACD73-5B16-4F19-84E1-BFC01022F059}|..\\CustomeCommLib.Tests\\CustomeCommLib.Tests.csproj|c:\\users\\hp\\desktop\\dn 4.0 deep skilling\\week2_nunit and moq\\2_write testable code with moq\\code\\customecommlib.tests\\customercommtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA48D5A3-3819-4F67-B501-A6C2C649CE65}|Lib.csproj|c:\\users\\hp\\desktop\\dn 4.0 deep skilling\\week2_nunit and moq\\2_write testable code with moq\\code\\lib\\customercomm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DA48D5A3-3819-4F67-B501-A6C2C649CE65}|Lib.csproj|C:\\Users\\HP\\Desktop\\DN 4.0 Deep Skilling\\Week2_Nunit and MoQ\\2_Write Testable Code with Moq\\Code\\Lib\\customercomm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA48D5A3-3819-4F67-B501-A6C2C649CE65}|Lib.csproj|solutionrelative:customercomm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA48D5A3-3819-4F67-B501-A6C2C649CE65}|Lib.csproj|c:\\users\\hp\\desktop\\dn 4.0 deep skilling\\week2_nunit and moq\\2_write testable code with moq\\code\\lib\\mailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DA48D5A3-3819-4F67-B501-A6C2C649CE65}|Lib.csproj|C:\\Users\\HP\\Desktop\\DN 4.0 Deep Skilling\\Week2_Nunit and MoQ\\2_Write Testable Code with Moq\\Code\\Lib\\mailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA48D5A3-3819-4F67-B501-A6C2C649CE65}|Lib.csproj|solutionrelative:mailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -29,9 +29,9 @@
               "Title": "CustomerCommTests.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\DN 4.0 Deep Skilling\\Week2_Nunit and MoQ\\2_Write Testable Code with Moq\\Code\\CustomeCommLib.Tests\\CustomerCommTests.cs",
               "RelativeDocumentMoniker": "..\\CustomeCommLib.Tests\\CustomerCommTests.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\DN 4.0 Deep Skilling\\Week2_Nunit and MoQ\\2_Write Testable Code with Moq\\Code\\CustomeCommLib.Tests\\CustomerCommTests.cs",
-              "RelativeToolTip": "..\\CustomeCommLib.Tests\\CustomerCommTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\DN 4.0 Deep Skilling\\Week2_Nunit and MoQ\\2_Write Testable Code with Moq\\Code\\CustomeCommLib.Tests\\CustomerCommTests.cs*",
+              "RelativeToolTip": "..\\CustomeCommLib.Tests\\CustomerCommTests.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-29T09:54:38.086Z",
               "EditorCaption": ""
@@ -44,7 +44,7 @@
               "RelativeDocumentMoniker": "CustomerComm.cs",
               "ToolTip": "C:\\Users\\HP\\Desktop\\DN 4.0 Deep Skilling\\Week2_Nunit and MoQ\\2_Write Testable Code with Moq\\Code\\Lib\\CustomerComm.cs",
               "RelativeToolTip": "CustomerComm.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAcwBYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-29T09:53:32.856Z",
               "EditorCaption": ""
@@ -59,8 +59,7 @@
               "RelativeToolTip": "MailSender.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAAwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T09:46:41.185Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-29T09:46:41.185Z"
             }
           ]
         }
