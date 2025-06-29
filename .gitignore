@@ -1,4 +1,9 @@
 *.class
 *.sln
 *.zip
-
+*.config
+.vs
+bin/
+obj/
+packages/
+properties/
