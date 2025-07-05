@@ -1,0 +1,32 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Week1_DesignPrinciplesPatterns", "Week1_DesignPrinciplesPatterns", "{99CD954E-6DCB-3EBB-EF2C-23985059B5C7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1_Implementing Singleton Pattern", "1_Implementing Singleton Pattern", "{6FA4FEC5-30D0-6594-C499-84461EE2000C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Code", "Week1_DesignPrinciplesPatterns\1_Implementing Singleton Pattern\Code\Code.csproj", "{DC69E0D9-1130-354B-0E23-FE68CE11AC6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC69E0D9-1130-354B-0E23-FE68CE11AC6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC69E0D9-1130-354B-0E23-FE68CE11AC6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC69E0D9-1130-354B-0E23-FE68CE11AC6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC69E0D9-1130-354B-0E23-FE68CE11AC6A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6FA4FEC5-30D0-6594-C499-84461EE2000C} = {99CD954E-6DCB-3EBB-EF2C-23985059B5C7}
+		{DC69E0D9-1130-354B-0E23-FE68CE11AC6A} = {6FA4FEC5-30D0-6594-C499-84461EE2000C}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92B17DA5-A5BB-4716-B68C-771370F213D6}
+	EndGlobalSection
+EndGlobal
