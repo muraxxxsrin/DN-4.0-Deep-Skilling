@@ -7,3 +7,4 @@ bin/
 obj/
 packages/
 properties/
+Week4_WebApi/**/*.docx
